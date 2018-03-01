@@ -22,9 +22,9 @@ Make sure to also shut down your outlook client.
 Open the .sln program and make sure to do a "clean" of the code first.
 You should be able to start the code and run it.
 
-You will need to install your own signed certificate to distriute the code to your team.
+You will need to install your own signed certificate to distribute the code to your team.
 
-Included in this code is a user install document as well.  Feel free to edit as needed.
+Included in this package is a user install document as well that you can edit.
 
 Please ping me or add an issue to the list to fix for any problems. Thanks.
 
