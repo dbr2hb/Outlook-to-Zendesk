@@ -1,0 +1,15 @@
+C:\Projects\Forward_to_Zendesk_no_Cert\Forward_to_Zendesk\bin\Release\Forward_to_Zendesk.dll
+C:\Projects\Forward_to_Zendesk_no_Cert\Forward_to_Zendesk\bin\Release\Forward_to_Zendesk.pdb
+C:\Projects\Forward_to_Zendesk_no_Cert\Forward_to_Zendesk\bin\Release\Forward_to_Zendesk.xml
+C:\Projects\Forward_to_Zendesk_no_Cert\Forward_to_Zendesk\bin\Release\Forward_to_Zendesk.dll.manifest
+C:\Projects\Forward_to_Zendesk_no_Cert\Forward_to_Zendesk\bin\Release\Forward_to_Zendesk.vsto
+C:\Projects\Forward_to_Zendesk_no_Cert\Forward_to_Zendesk\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Projects\Forward_to_Zendesk_no_Cert\Forward_to_Zendesk\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Projects\Forward_to_Zendesk_no_Cert\Forward_to_Zendesk\obj\Release\Forward_to_Zendesk.vbprojResolveAssemblyReference.cache
+C:\Projects\Forward_to_Zendesk_no_Cert\Forward_to_Zendesk\obj\Release\Forward_to_Zendesk.Ribbon1.resources
+C:\Projects\Forward_to_Zendesk_no_Cert\Forward_to_Zendesk\obj\Release\Forward_to_Zendesk.Resources.resources
+C:\Projects\Forward_to_Zendesk_no_Cert\Forward_to_Zendesk\obj\Release\Forward_to_Zendesk.vbproj.GenerateResource.Cache
+C:\Projects\Forward_to_Zendesk_no_Cert\Forward_to_Zendesk\obj\Release\Forward_to_Zendesk.vbproj.CoreCompileInputs.cache
+C:\Projects\Forward_to_Zendesk_no_Cert\Forward_to_Zendesk\obj\Release\Forward_to_Zendesk.dll
+C:\Projects\Forward_to_Zendesk_no_Cert\Forward_to_Zendesk\obj\Release\Forward_to_Zendesk.xml
+C:\Projects\Forward_to_Zendesk_no_Cert\Forward_to_Zendesk\obj\Release\Forward_to_Zendesk.pdb
