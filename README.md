@@ -18,6 +18,8 @@ https://support.zendesk.com/hc/en-us/community/posts/203458956-Forward-email-as-
 
 Basically it does a one click forward email to your support email address with the original sender.  Assuming you properly have zendesk setup to assign forwarded tickets it will create a ticket with the original sender as the requester.
 
+<B>Enable Email forwarding under Admin > Settings > Agents</b>
+
 I’ve taken it a step further and created an installable program you can distribute to all users vs having to copy and paste a macro into each users outlook.
 
 Before you start you'll need Visual Studio 2017. Make sure to also shut down your outlook client.
